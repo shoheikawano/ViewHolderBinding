@@ -1,0 +1,1 @@
+include ':viewholderbinding-sample', ':viewholderbinding-annotations', ':viewholderbinding-processor'
