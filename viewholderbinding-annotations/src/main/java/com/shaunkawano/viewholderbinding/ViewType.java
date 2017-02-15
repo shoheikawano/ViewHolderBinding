@@ -5,5 +5,8 @@ import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
+/**
+ * @author Shohei Kawano
+ */
 @Target(ElementType.TYPE) @Retention(RetentionPolicy.SOURCE) @interface ViewType {
 }

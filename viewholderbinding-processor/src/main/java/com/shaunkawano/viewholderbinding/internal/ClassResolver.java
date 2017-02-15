@@ -2,6 +2,9 @@ package com.shaunkawano.viewholderbinding.internal;
 
 import com.squareup.javapoet.ClassName;
 
+/**
+ * @author Shohei Kawano
+ */
 public final class ClassResolver {
 
   private ClassResolver() {

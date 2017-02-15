@@ -7,6 +7,9 @@ import static java.util.Locale.US;
 import static javax.tools.Diagnostic.Kind.ERROR;
 import static javax.tools.Diagnostic.Kind.NOTE;
 
+/**
+ * @author Shohei Kawano
+ */
 public final class MessageHelper {
 
   private Messager messager;
