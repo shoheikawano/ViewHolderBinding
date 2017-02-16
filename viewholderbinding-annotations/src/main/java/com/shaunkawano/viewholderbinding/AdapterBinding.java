@@ -8,5 +8,5 @@ import java.lang.annotation.Target;
 /**
  * @author Shohei Kawano
  */
-@Target(ElementType.TYPE) @Retention(RetentionPolicy.SOURCE) @interface AdapterBinding {
+@Target(ElementType.TYPE) @Retention(RetentionPolicy.SOURCE) public @interface AdapterBinding {
 }
