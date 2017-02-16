@@ -50,4 +50,7 @@ See [CatAdapter](https://github.com/shaunkawano/ViewHolderBinding/blob/master/vi
 
 ## Download
 
-TODO
+```gradle
+compile 'com.shaunkawano.viewholderbinding:viewholderbinding-annotations:0.5.1'
+annotationProcessor 'com.shaunkawano.viewholderbinding:viewholderbinding-processor:0.5.1'
+```
